@@ -1,4 +1,4 @@
-# Hi Peoples, Welcome to my GitHub 👋
+# Hi Guys, Welcome to my GitHub 👋
 
 <div align="center">
   <a href="https://github.com/Mateus-Campos-Cruz">
