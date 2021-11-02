@@ -1,4 +1,4 @@
-# Olá pessoal, sejam bem vindos ao meu GitHub 👋
+# Hi Peoples, Welcome to my GitHub 👋
 
 <div align="center">
   <a href="https://github.com/Mateus-Campos-Cruz">
@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Campos-Cruz&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
   
-## Linguagens e Tecnologias
+## Technologies
 
   <div style="display: inline_block"><br>    
   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
