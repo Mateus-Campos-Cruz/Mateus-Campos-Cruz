@@ -1,5 +1,7 @@
 # Hi Guys, Welcome to my GitHub 👋
 
+📃Meu Curriculo: http://lattes.cnpq.br/6414925592536106
+
 <div align="center">
   <a href="https://github.com/Mateus-Campos-Cruz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Campos-Cruz&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
