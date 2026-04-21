@@ -1,49 +1,137 @@
-<div align="center">
-  # Hi, I'm Mateus Cruz 👋
-  🎓 **Computer Science Student** | 💻 Full Stack Developer
-  🔗 [My Curriculum (Lattes)](http://lattes.cnpq.br/6414925592536106)
-</div>
+# 👨🏻‍💻 Mateus Cruz
 
-<br/>
+**`Full Stack Developer`**
 
-<p align="center">
-  <a href="mailto:mateusfelipecamposdacruz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/MAIL_ME-R$-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mateuscruzdevweb/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN_ME-%3E-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/DEV_LEVEL-A-34A853?style=for-the-badge">
+I am Mateus Cruz, a Computer Science student at UNA (currently in the 7th period). I have a background in Logistics and a technical certificate in Systems Analysis and Development from SENAI. I am passionate about technology and software development, with experience in frontend technologies, SQL, and OutSystems. My goal is to build efficient and scalable solutions while constantly expanding my technical repertoire.
+
+<p align="left">
+    <a href="https://github.com/Mateus-Campos-Cruz?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total Stars" 
+            title="Total Stars GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Mateus-Campos-Cruz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
+        />
+    </a>
+    <a href="https://github.com/Mateus-Campos-Cruz?tab=followers">
+        <img 
+            alt="Followers" 
+            title="Follow me on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Mateus-Campos-Cruz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/mateuscruzdevweb/">
+        <img 
+            alt="LinkedIn" 
+            title="Connect on LinkedIn" 
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
 </p>
 
+---
+
+### 🤖 Technologies & Tools
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML5"
+    title="HTML5" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS3" 
+    title="CSS3"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="VSCode" 
+    title="VSCode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" 
+/>
+
+<br/>
 <br/>
 
-<div align="center">
-  ## 🚀 Technologies & Tools
+### 📊 Statistics
 
-  <p>
-    <img alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp;
-    <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
-    <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
-    <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
-    <img alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> &nbsp;
-    <img alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> &nbsp;
-    <img alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"> &nbsp;
-    <img alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"> &nbsp;
-    <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"> &nbsp;
-    <img alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  </p>
-</div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Mateus-Campos-Cruz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+  />
 
-<br/>
+<img 
+      align="left" 
+      alt="Top Languages" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Campos-Cruz&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=10" 
+  />
 
-<div align="center">
-  ## 📊 GitHub Stats
-
-  <a href="https://github.com/Mateus-Campos-Cruz" target="_blank">
-    <img height="250" src="https://github-readme-stats.vercel.app/api?username=Mateus-Campos-Cruz&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Mateus-Campos-Cruz" target="_blank">
-    <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Campos-Cruz&langs_count=10&theme=blue-green"/>
-  </a>
-</div>
+</p>
